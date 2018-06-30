@@ -1,0 +1,10 @@
+Possible solutions -- 
+
+Front end -- Aurelia/ Angular 
+Database -- Postgres, Oracle, Mysql, Mongo 
+BackEnd -- Hibernate, Spring data JPA
+Analytics -- Hadoop/ Spark + python 
+Communincation using Rest API 
+
+Media File storage -- AWS
+Possible use of Docker container with Docker image file implementing microservices and scalling based on application need
