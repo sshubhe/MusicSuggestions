@@ -2,8 +2,7 @@ Possible solutions --
 
 Front end -- ReactJs 
 Database -- Postgres, Oracle, Mysql, Mongo 
-BackEnd -- Hibernate, Spring data JPA
-Analytics -- Hadoop/ Spark + python 
+BackEnd Analytics -- Hadoop/ Spark + python 
 Communincation using Rest API 
 
 Media File storage -- AWS
