@@ -1,0 +1,30 @@
+body {
+  background: #444; }
+
+.standard-font {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111; }
+
+.increaseRead {
+  color: #363636;
+  padding-left: 10px;
+  padding-right: 40px; }
+
+.hoverBeing:hover {
+  color: #b30015;
+  font-size: 22px; }
+
+.inline-disp {
+  display: inline-flex; }
+
+.formFormat {
+  align-items: center;
+  padding-left: 150px;
+  padding-bottom: 20px; }
+
+.videoCover {
+  display: flex;
+  width: 1400px;
+  padding-left: 10px;
+  padding-right: 10px; }
